@@ -1,13 +1,1 @@
-{
-  application: "Genox",
-  version: 2.1,
-  steam: 1,
-  epic: 1,
-  mic: 1,
-  unlocker: 1,
-  max_profile: 1,
-  currency_spoofer: 1,
-  custom_bloodweb: 1,
-  bloodweb_editor: 1,
-  ytes: "string"
-}
+{  application: "Genox",  version: 2.1,  steam: 1,  epic: 1,  mic: 1,  unlocker: 1,  max_profile: 1,  currency_spoofer: 1,  custom_bloodweb: 1,  bloodweb_editor: 1,  ytes: "string" }
