@@ -1,0 +1,12 @@
+{
+  version: 2.1,
+  steam: false,
+  epic: true,
+  mic: true,
+  unlocker:"working",
+  temp-profile:"working",
+  currency-spoofer:"working",
+  custom-bloodweb:"working",
+  bloodweb-editor:"working",
+  ytes: "string"
+}
