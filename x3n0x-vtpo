@@ -3,10 +3,10 @@
   steam: false,
   epic: true,
   mic: true,
-  unlocker:"working",
-  max-profile:"working",
-  currency-spoofer:"working",
-  custom-bloodweb:"working",
-  bloodweb-editor:"working",
+  unlocker: "working",
+  max_profile: "working",
+  currency_spoofer: "working",
+  custom_bloodweb: "working",
+  bloodweb_editor: "working",
   ytes: "string"
 }
